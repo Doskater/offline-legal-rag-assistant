@@ -1,0 +1,12 @@
+query,expected_terms
+What does the handbook say about response times for data requests?,data request|five business days|privacy
+When can a vendor agreement be terminated for breach?,termination|material breach|ten days
+What are the document retention rules for client matter files?,retention|seven years|matter files
+How should confidential information be handled in remote work?,confidential|remote work|secure connection
+What sources support drafting a limitation of liability clause?,limitation of liability|indirect damages|contract
+What is the escalation process for missed service levels?,service level|escalation|operations manager
+Which documents discuss legal research citation quality?,citation|source file|passage
+What is required before using AI-generated drafts externally?,human review|draft|external
+How should conflicts checks be recorded?,conflict check|intake|record
+What are the rules for adding new corpus files?,new files|re-index|hash
+

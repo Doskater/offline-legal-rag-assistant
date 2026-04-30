@@ -1,0 +1,11 @@
+{
+  "files_seen": 4,
+  "files_indexed": 0,
+  "files_skipped": 4,
+  "chunks_indexed": 0,
+  "failed_files": 0,
+  "embedding_backend": "local-hash",
+  "chunks_available": 7,
+  "database": "/Users/admin/Documents/ai-freelance-portfolio/offline-legal-rag-assistant/legal_x_demo.db",
+  "corpus": "/Users/admin/Documents/ai-freelance-portfolio/offline-legal-rag-assistant/sample_corpus"
+}

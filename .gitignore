@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+legal_x_demo.db
+legal_x_demo.db-shm
+legal_x_demo.db-wal
+
