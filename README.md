@@ -134,6 +134,10 @@ The sample answer includes:
 - source passage
 - hybrid, BM25, and vector scores
 
+## Screenshot
+
+![Offline Legal RAG Assistant dashboard](screenshots/offline-rag-dashboard.png)
+
 ## How This Maps To A Client RAG Setup
 
 This portfolio case is intentionally smaller than a production legal corpus. The same architecture scales into a client discovery phase:
@@ -166,4 +170,3 @@ Use this project for jobs involving:
 - The default answer generator is extractive and deterministic, not a full LLM drafting system.
 - Source highlighting is represented by exact chunk passage references; a production Kotaemon setup would handle UI-level document highlighting.
 - This is a portfolio-safe prototype, not legal advice software.
-
